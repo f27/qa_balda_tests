@@ -1,9 +1,9 @@
-package uitests.pageobjects;
+package uitests.pageobjects.balda;
 
 import org.junit.jupiter.api.Test;
-import uitests.AbstractBaldaTest;
+import uitests.TestBase;
 
-public class BaldaTests extends AbstractBaldaTest {
+public class BaldaTests extends TestBase {
     BaldaPage baldaPage;
 
     @Test
