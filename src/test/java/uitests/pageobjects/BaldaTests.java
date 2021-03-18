@@ -1,7 +1,7 @@
-package uitest.pageobjects;
+package uitests.pageobjects;
 
 import org.junit.jupiter.api.Test;
-import uitest.AbstractBaldaTest;
+import uitests.AbstractBaldaTest;
 
 public class BaldaTests extends AbstractBaldaTest {
     BaldaPage baldaPage;

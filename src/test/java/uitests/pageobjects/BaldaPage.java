@@ -1,4 +1,4 @@
-package uitest.pageobjects;
+package uitests.pageobjects;
 
 import static com.codeborne.selenide.Condition.*;
 import static com.codeborne.selenide.Selenide.*;
